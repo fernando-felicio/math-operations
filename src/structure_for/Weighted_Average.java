@@ -22,7 +22,7 @@ public class Weighted_Average {
 			
 			Double media = (a * 2.0 + b * 3.0 + c * 5.0) / 10.0;
 			
-			System.out.printf("%.1f%n", media);
+			System.out.printf("The weighted average of the cases is: %n%.1f%n", media);
 		}
 		
 		
